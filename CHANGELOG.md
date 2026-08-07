@@ -10,6 +10,12 @@ For releases `< 1.0.0` minor version step indicate breaking changes.
 
 ## [Unreleased] - 2025-04-08
 
+## [sddi-ckan-4.2.1] - 2026-08-07
+
+### Changed
+
+- Upgrade ckan-Services and subchart to `4.2.1`
+
 ## [sddi-ckan-4.2.0] - 2025-10-18
 
 ### Changed
