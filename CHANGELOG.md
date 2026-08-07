@@ -443,7 +443,7 @@ is displayed when navigating to the _Datasets_ view of CKAN.
 
 ### Known issues
 
-[Unreleased]: https://github.com/tum-gis/sddi-ckan-k8s/compare/sddi-ckan-4.2.1...HEAD
+[Unreleased]: https://github.com/saskia1903/sddi-ckan-k8s/compare/sddi-ckan-4.2.1...HEAD
 
 [sddi-ckan-4.2.1]: https://github.com/saskia1903/sddi-ckan-k8s/compare/sddi-ckan-4.2.0...sddi-ckan-4.2.1
 [sddi-ckan-4.2.0]: https://github.com/tum-gis/sddi-ckan-k8s/compare/sddi-ckan-4.1.0...sddi-ckan-4.2.0
